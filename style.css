@@ -12,9 +12,18 @@ body {
     font-family: 'Luckiest Guy', cursive;
 }
 .clue {
+  color:#d85;
   width: 100% auto;
   text-align: center;
 }
 .text {
   color: #7cc;
+}
+#scooby {
+  float: right;
+  width: 200px;
+}
+#mag {
+  float: right;
+  width: 75px;
 }
